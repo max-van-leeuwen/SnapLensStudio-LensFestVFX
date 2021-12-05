@@ -1,0 +1,1662 @@
+{
+    "lens_id": "",
+    "document_id": "gkPNcGnkQDbOU-OMlAMu",
+    "original_document_id": "aklgP9L99NL8X7LpJLXJ",
+    "version": "28",
+    "lastChanged": "1638672119364",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "7",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "7",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Temp"
+                    ],
+                    [
+                        "Textures",
+                        "Echopark"
+                    ],
+                    [
+                        "Textures",
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Textures",
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "VFX",
+                        "Lens Fest Logo",
+                        "Darken"
+                    ],
+                    [
+                        "VFX",
+                        "Lens Fest Logo",
+                        "Lens Fest Logo"
+                    ],
+                    [
+                        "VFX",
+                        "Lens Fest Logo",
+                        "Lens Fest Logo VFX"
+                    ],
+                    [
+                        "VFX",
+                        "Lens Studio Logo",
+                        "Lens Studio Logo"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1638663795468436:265640"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": [
+                ""
+            ],
+            "lens": "Lens Fest VFX",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1638670760712758:1161464"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1638667490744247:660871"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1638661454271867:20574",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1638663181784615:190909",
+                    "name": "Files\/File47",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1638663181986199:190940",
+                    "name": "Files\/File49",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1638663182204793:190975",
+                    "name": "Files\/File51",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1638663182408865:191014",
+                    "name": "Files\/File53.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1638663376265536:212606",
+                    "name": "Files\/File54",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1638663376412424:212637",
+                    "name": "Files\/File56",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1638663376567898:212672",
+                    "name": "Files\/File58",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1638663376715632:212707",
+                    "name": "Files\/File60.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1638663382338470:213604",
+                    "name": "Files\/File61",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1638663382486451:213631",
+                    "name": "Files\/File63",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1638663382642836:213666",
+                    "name": "Files\/File65",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1638663382793704:213697",
+                    "name": "Files\/File67.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1638663795311553:265608",
+                    "name": "Files\/File68.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1638663795399466:265624",
+                    "name": "Files\/File71.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1638666099716663:479142",
+                    "name": "Files\/File85",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1638666099928577:479197",
+                    "name": "Files\/File87",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1638666100114703:479214",
+                    "name": "Files\/File89",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1638666100277070:479231",
+                    "name": "Files\/File91",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1638666100468474:479248",
+                    "name": "Files\/File93.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1638667490744247:660871",
+                    "name": "Files\/File94",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1638667490828070:660934",
+                    "name": "Files\/File96",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1638667490885797:660951",
+                    "name": "Files\/File98",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1638667490924981:660968",
+                    "name": "Files\/File100",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1638667490982432:660985",
+                    "name": "Files\/File102.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1638670760712758:1161464",
+                    "name": "Files\/File112",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1638670805057388:1167707",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1638671155655263:1210653",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1638661434075840:18524",
+                "1": "1638661436867823:18781",
+                "2": "1638661914297779:46141",
+                "3": "1638661920852107:47023",
+                "4": "1638661933567821:48421",
+                "5": "1638663795468436:265640",
+                "6": "1638663795469560:265642",
+                "7": "1638663795475498:265653",
+                "8": "1638667511530311:664545",
+                "9": "1638670748287132:1158663"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Lens Fest Logo VFX",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsvfx"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.js"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.lsmat"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.lsmat"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.lsmat"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.js"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.lsmat"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.lsmat"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.lsmat"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.js"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.jpeg"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.jpeg"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.jpeg"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.jpeg"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.jpeg"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.jpeg"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.lsvfx"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.lsmat"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.lsmat"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.lsmat"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.js"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.lsvfx"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.lsmat"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.lsmat"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.lsmat"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.js"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "968",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "969",
+                        "v": "VFX"
+                    },
+                    {
+                        "k": "970",
+                        "v": "VFX\/Lens Studio Logo"
+                    },
+                    {
+                        "k": "972",
+                        "v": "VFX\/Lens Studio Logo\/Lens Studio Logo.lsvfx"
+                    },
+                    {
+                        "k": "977",
+                        "v": "VFX\/Lens Fest Logo"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Textures\/Echopark"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Textures\/Echopark\/Diff.jpeg"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Textures\/Echopark\/Specular.jpeg"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Temp.lsvfx"
+                    },
+                    {
+                        "k": "987",
+                        "v": "VFX\/Lens Fest Logo\/Lens Fest Logo.lsvfx"
+                    },
+                    {
+                        "k": "990",
+                        "v": "VFX\/Lens Fest Logo\/Darken.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "971",
+                        "v": "c95e0fc1092a07051551a32018e149a9"
+                    },
+                    {
+                        "k": "972",
+                        "v": "f435cf328674f161daada0116d803ed8"
+                    },
+                    {
+                        "k": "975",
+                        "v": "26e2497658741bbaaade22878b590070"
+                    },
+                    {
+                        "k": "976",
+                        "v": "ecc49c32bf04905e5577e5c26c382475"
+                    },
+                    {
+                        "k": "979",
+                        "v": "0febd5bc9be04ba2e49753f22e5c565d"
+                    },
+                    {
+                        "k": "980",
+                        "v": "0ab1187ca732ed723d2e302f88f072f0"
+                    },
+                    {
+                        "k": "981",
+                        "v": "d8df9121c4547d1ebb2ca244c880ac9d"
+                    },
+                    {
+                        "k": "982",
+                        "v": "c7e607bb15d46ed69d3b3cefc55437d5"
+                    },
+                    {
+                        "k": "983",
+                        "v": "8b36a341ab680d655679e9d18c11423e"
+                    },
+                    {
+                        "k": "984",
+                        "v": "bd2c5e0b9b6f52cbb4e8ceb6da17ee8e"
+                    },
+                    {
+                        "k": "985",
+                        "v": "d04b09bfd41293116a13a30a38a71193"
+                    },
+                    {
+                        "k": "986",
+                        "v": "a7557bd5a71ed3589f02456abdeaa82c"
+                    },
+                    {
+                        "k": "987",
+                        "v": "ef8163e57e4794697a5d9bacc8838fac"
+                    },
+                    {
+                        "k": "988",
+                        "v": "84debe528c6093d416b7663807893fc0"
+                    },
+                    {
+                        "k": "989",
+                        "v": "cd09adf9c3c53bdc03bb4547f2c991ab"
+                    },
+                    {
+                        "k": "990",
+                        "v": "f2716c6c14618b3fd4cd0aa86cbde8a7"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-12-05T03:37:02",
+                        "name": "Public",
+                        "hash": "751d78759a1c27894c1f25ab154d7681",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-12-05T03:37:02",
+                                "name": "Textures",
+                                "hash": "1ca1acef913da52f9f5d8608dff906a4",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-12-05T03:37:02",
+                                        "name": "Echopark",
+                                        "hash": "5a1f00279495bbc7935c9e6c2a9cfada",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T01:23:15",
+                                                "name": "Diff.jpeg",
+                                                "hash": "0febd5bc9be04ba2e49753f22e5c565d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T01:23:15",
+                                                "name": "Specular.jpeg",
+                                                "hash": "0ab1187ca732ed723d2e302f88f072f0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T01:23:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-05T00:43:11",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-12-05T03:37:02",
+                                "name": "Temp.lsvfx",
+                                "hash": "5f1ed83450749a7f8f597e708b7ff5ad",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-12-05T03:37:02",
+                                "name": "VFX",
+                                "hash": "dc8f527811671c183fef176527b0e00a",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-12-05T03:37:02",
+                                        "name": "Lens Fest Logo",
+                                        "hash": "21e4c85fa4c53e541c1f4371dd5001e8",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T03:37:02",
+                                                "name": "Lens Fest Logo.lsvfx",
+                                                "hash": "b57e1c3db6bf624299d589fc5e1711e9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T03:37:02",
+                                                "name": "Darken.lsmat",
+                                                "hash": "92d4d7626fd251c47a40a1c26d89263e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T01:00:40",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-12-05T03:37:02",
+                                        "name": "Lens Studio Logo",
+                                        "hash": "1d35dd4ab82cb178af58d20514e5759b",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T00:43:47",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-05T03:37:02",
+                                                "name": "Lens Studio Logo.lsvfx",
+                                                "hash": "0f83ffc5bb0112d34c1b15d69fb7ba0a",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-05T00:43:44",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-16T08:23:11",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Echopark",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "978",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1638663795311553:265608",
+                                        "fileId": "68",
+                                        "originalId": "69",
+                                        "publicId": "979",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-cKFlmi\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "0febd5bc9be04ba2e49753f22e5c565d"
+                                        }
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "48",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1638663795399466:265624",
+                                        "fileId": "71",
+                                        "originalId": "72",
+                                        "publicId": "980",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-cKFlmi\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "0ab1187ca732ed723d2e302f88f072f0"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Screen Texture",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "71",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1638670805057388:1167707",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "VFX",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Lens Studio Logo",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "970",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Lens Studio Logo",
+                                        "type": "23",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "1638661454271867:20574",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "972",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "System 44",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "44"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "35",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663181784615:190909",
+                                                        "fileId": "47",
+                                                        "originalId": "48",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "44"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "36",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663181986199:190940",
+                                                        "fileId": "49",
+                                                        "originalId": "50",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "44"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "37",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663182204793:190975",
+                                                        "fileId": "51",
+                                                        "originalId": "52",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "44"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "38",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663182408865:191014",
+                                                        "fileId": "53",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/Applications\/Lens Studio 4.7.2.app\/Contents\/MacOS\/\/..\/Resources\/NodeGraph.bundle\/vfx\/default\/Script.js",
+                                                        "additional": {
+                                                            "system_id": "44"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "System 3",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "3"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "39",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663376265536:212606",
+                                                        "fileId": "54",
+                                                        "originalId": "55",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "3"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "40",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663376412424:212637",
+                                                        "fileId": "56",
+                                                        "originalId": "57",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "3"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "41",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663376567898:212672",
+                                                        "fileId": "58",
+                                                        "originalId": "59",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "3"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "42",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663376715632:212707",
+                                                        "fileId": "60",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/Applications\/Lens Studio 4.7.2.app\/Contents\/MacOS\/\/..\/Resources\/NodeGraph.bundle\/vfx\/default\/Script.js",
+                                                        "additional": {
+                                                            "system_id": "3"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "System 43",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "43"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "43",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663382338470:213604",
+                                                        "fileId": "61",
+                                                        "originalId": "62",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "43"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "44",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663382486451:213631",
+                                                        "fileId": "63",
+                                                        "originalId": "64",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "43"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "45",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663382642836:213666",
+                                                        "fileId": "65",
+                                                        "originalId": "66",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "system_id": "43"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "46",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638663382793704:213697",
+                                                        "fileId": "67",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/Applications\/Lens Studio 4.7.2.app\/Contents\/MacOS\/\/..\/Resources\/NodeGraph.bundle\/vfx\/default\/Script.js",
+                                                        "additional": {
+                                                            "system_id": "43"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lens Fest Logo",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "977",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Lens Fest Logo",
+                                        "type": "23",
+                                        "subtype": "0",
+                                        "resourceId": "60",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "1638667490744247:660871",
+                                        "fileId": "94",
+                                        "originalId": "95",
+                                        "publicId": "987",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "System 39",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "39"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "61",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638667490828070:660934",
+                                                        "fileId": "96",
+                                                        "originalId": "97",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "62",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638667490885797:660951",
+                                                        "fileId": "98",
+                                                        "originalId": "99",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "63",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638667490924981:660968",
+                                                        "fileId": "100",
+                                                        "originalId": "101",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "64",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1638667490982432:660985",
+                                                        "fileId": "102",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-cKFlmi\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Darken",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "70",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1638670760712758:1161464",
+                                        "fileId": "112",
+                                        "originalId": "113",
+                                        "publicId": "990",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Lens Fest Logo VFX",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "72",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1638671155655263:1210653",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Temp",
+                        "type": "23",
+                        "subtype": "0",
+                        "resourceId": "55",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "1638666099716663:479142",
+                        "fileId": "85",
+                        "originalId": "86",
+                        "publicId": "985",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "System 39",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "system_id": "39"
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Rendering",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "56",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1638666099928577:479197",
+                                        "fileId": "87",
+                                        "originalId": "88",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Feedback",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "57",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1638666100114703:479214",
+                                        "fileId": "89",
+                                        "originalId": "90",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Simulation",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "58",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1638666100277070:479231",
+                                        "fileId": "91",
+                                        "originalId": "92",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Managing",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "59",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1638666100468474:479248",
+                                        "fileId": "93",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-cKFlmi\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1638667490744247:660871",
+                        "path_list": [
+                            "VFX",
+                            "Lens Fest Logo",
+                            "Lens Fest Logo"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1638663795311553:265608",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1379",
+                            "compressedSize": "1379",
+                            "originalRAM": "8192",
+                            "compressedRAM": "8192",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "70",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1638663795399466:265624",
+                    "v": {
+                        "infos": {
+                            "originalSize": "39423",
+                            "compressedSize": "39423",
+                            "originalRAM": "697303",
+                            "compressedRAM": "697303",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "73",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.7.2"
+}
