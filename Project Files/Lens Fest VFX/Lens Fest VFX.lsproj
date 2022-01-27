@@ -2,8 +2,8 @@
     "lens_id": "",
     "document_id": "gkPNcGnkQDbOU-OMlAMu",
     "original_document_id": "aklgP9L99NL8X7LpJLXJ",
-    "version": "28",
-    "lastChanged": "1638838285156",
+    "version": "29",
+    "lastChanged": "1643272596395",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -22,8 +22,8 @@
         "lastSavedWith": {
             "type": "Public",
             "major": "4",
-            "minor": "7",
-            "patch": "2",
+            "minor": "13",
+            "patch": "0",
             "build": "0"
         }
     },
@@ -89,7 +89,6 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1638661434075840:18524",
                     "1638661914297779:46141",
                     "1638661920852107:47023",
                     "1638663795468436:265640"
@@ -106,7 +105,7 @@
             "lens": "Lens Fest VFX",
             "applicability": "3",
             "lens_descriptors": "",
-            "HermosaUseAllowed": "false"
+            "Spectacles2021UseAllowed": "false"
         },
         "PreviewUiComponent": {
             "preview_descriptor": {
@@ -149,13 +148,13 @@
             "foldedOwnerSceneObjects": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1638670760712758:1161464"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
         },
         "VFX::UiComponent": {
-            "active_graph_asset": "1638836555360662:625712"
+            "active_graph_asset": "1638661454271867:20574"
         }
     },
     "model": {
@@ -424,6 +423,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "95",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -447,18 +454,16 @@
         },
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1638661434075840:18524",
-                "1": "1638661436867823:18781",
-                "2": "1638661914297779:46141",
-                "3": "1638661920852107:47023",
-                "4": "1638661933567821:48421",
-                "5": "1638663795468436:265640",
-                "6": "1638663795469560:265642",
-                "7": "1638663795475498:265653",
-                "8": "1638667511530311:664545",
-                "9": "1638670748287132:1158663",
-                "10": "1638834292872866:390018",
-                "11": "1638836565021115:627560"
+                "0": "1638661436867823:18781",
+                "1": "1638661914297779:46141",
+                "2": "1638661920852107:47023",
+                "3": "1638661933567821:48421",
+                "4": "1638663795468436:265640",
+                "5": "1638663795469560:265642",
+                "6": "1638663795475498:265653",
+                "7": "1638667511530311:664545",
+                "8": "1638670748287132:1158663",
+                "9": "1638836565021115:627560"
             }
         },
         "LayerComponent": {
@@ -707,6 +712,9 @@
                 }
             ]
         },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
         "WorldComponent": {
             "sceneFile": "scene.scn",
             "sceneType": "binaryScene"
@@ -780,7 +788,7 @@
                     },
                     {
                         "k": "972",
-                        "v": "a42cc283a8f3310bb3fecc93abe59f8d"
+                        "v": "f98bf81c4dd1448c281c71c4e4742222"
                     },
                     {
                         "k": "975",
@@ -824,7 +832,7 @@
                     },
                     {
                         "k": "987",
-                        "v": "5f77ffd07a48319e91ac479870ead307"
+                        "v": "bbd909e0618be8c476fc34b20f737141"
                     },
                     {
                         "k": "988",
@@ -836,7 +844,7 @@
                     },
                     {
                         "k": "990",
-                        "v": "a7678fff1d9831f45218517c14de20bf"
+                        "v": "11b51b93ba197f08667053c5afe9a129"
                     },
                     {
                         "k": "991",
@@ -848,45 +856,45 @@
                     },
                     {
                         "k": "993",
-                        "v": "0604e47c9b1e88dff5815a38c30dbf6d"
+                        "v": "ea1bba703660dcfd7e20770a35814fae"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-12-07T01:22:35",
+                        "lastModified": "2022-01-27T09:15:47",
                         "name": "Public",
-                        "hash": "7cad1d0b4886c3b6c74d6fdf51de705e",
+                        "hash": "9e0d86e5c16238bc572a8d22539a5243",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-12-05T03:37:02",
+                                "lastModified": "2021-12-08T15:15:38",
                                 "name": "Textures",
                                 "hash": "1ca1acef913da52f9f5d8608dff906a4",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-12-05T03:37:02",
+                                        "lastModified": "2021-12-08T15:15:38",
                                         "name": "Echopark",
                                         "hash": "5a1f00279495bbc7935c9e6c2a9cfada",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-05T01:23:15",
+                                                "lastModified": "2021-12-08T15:15:38",
                                                 "name": "Diff.jpeg",
                                                 "hash": "0febd5bc9be04ba2e49753f22e5c565d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-05T01:23:15",
+                                                "lastModified": "2021-12-08T15:15:38",
                                                 "name": "Specular.jpeg",
                                                 "hash": "0ab1187ca732ed723d2e302f88f072f0",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-05T01:23:15",
+                                                "lastModified": "2021-12-08T15:15:38",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -895,7 +903,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-12-05T00:43:11",
+                                        "lastModified": "2021-12-08T15:15:38",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -904,40 +912,40 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-12-05T03:37:02",
+                                "lastModified": "2022-01-27T09:33:56",
                                 "name": "VFX",
-                                "hash": "fdde40bfe15ae10e1e3740df2fd29965",
+                                "hash": "d133a69fe2165faa6f7b72d1b2c81d4d",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-12-07T01:47:54",
+                                        "lastModified": "2022-01-27T09:33:49",
                                         "name": "Lens Fest Logo",
-                                        "hash": "c0733c6d0b8994bf354b246adf85d164",
+                                        "hash": "a7abdae2a5e8300db0c918d06b4f7ac7",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-07T01:47:54",
+                                                "lastModified": "2022-01-27T09:33:49",
                                                 "name": "Darken Screen.lsmat",
-                                                "hash": "ae33b4aecaf034d1762dc6d4805dfeb7",
+                                                "hash": "d513f9b49369a5950d6fe6f619ebd2cc",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-07T01:47:54",
+                                                "lastModified": "2022-01-27T09:33:49",
                                                 "name": "Plus Signs Flying.lsvfx",
-                                                "hash": "7dce1476ebee23e300d5aaab2b34c5b1",
+                                                "hash": "6cd085c93e41c2855e247e8dcb096c0d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-07T01:47:54",
+                                                "lastModified": "2022-01-27T09:33:49",
                                                 "name": "Lens Fest Logo.lsvfx",
-                                                "hash": "9eb5b6187798c6e2796de1002d73d191",
+                                                "hash": "eb3f34daf022419eee4d0e601e4c005d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-05T01:00:40",
+                                                "lastModified": "2021-12-08T15:15:38",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -946,29 +954,29 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-12-07T01:47:53",
+                                        "lastModified": "2022-01-27T09:33:49",
                                         "name": "Lens Studio Logo",
-                                        "hash": "b29fee89ba1e6b7192871d2217b080f6",
+                                        "hash": "97d1cad99e922f8d267631a9bba9f8da",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-05T00:43:47",
+                                                "lastModified": "2021-12-08T15:15:38",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-12-07T01:47:53",
+                                                "lastModified": "2022-01-27T09:33:49",
                                                 "name": "Lens Studio Logo.lsvfx",
-                                                "hash": "1ebe1070779c6fb786d1e8d9d2797976",
+                                                "hash": "28dedb8d1f7c9fabe01499bf12767846",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-12-05T00:43:44",
+                                        "lastModified": "2021-12-08T15:15:38",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -977,7 +985,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-11-16T08:23:11",
+                                "lastModified": "2021-12-08T15:15:38",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1151,7 +1159,9 @@
                                         "originalId": "9",
                                         "publicId": "972",
                                         "source": "",
-                                        "additional": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        },
                                         "resources": [
                                             {
                                                 "name": "System 44",
@@ -1429,7 +1439,9 @@
                                         "originalId": "95",
                                         "publicId": "987",
                                         "source": "",
-                                        "additional": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        },
                                         "resources": [
                                             {
                                                 "name": "System 39",
@@ -1601,7 +1613,9 @@
                                         "originalId": "113",
                                         "publicId": "990",
                                         "source": "",
-                                        "additional": ""
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
                                     },
                                     {
                                         "name": "Plus Signs Flying",
@@ -1615,7 +1629,9 @@
                                         "originalId": "144",
                                         "publicId": "993",
                                         "source": "",
-                                        "additional": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        },
                                         "resources": [
                                             {
                                                 "name": "System 39",
@@ -1696,22 +1712,26 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "95",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "resources": [
-                    {
-                        "uid": "1638670805057388:1167707",
-                        "path_list": [
-                            "Textures",
-                            "Screen Texture"
-                        ]
-                    }
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
@@ -1743,8 +1763,7 @@
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
-            "33": ""
+            "32": ""
         },
         "ObjectPrefabController": {
             "state": {
