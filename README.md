@@ -7,5 +7,5 @@ No scripts, textures, or 3D models were used.
 <br/>
 From tweets:
 
-https://twitter.com/maksvanleeuwen/status/1468026442931974145?s=20
-https://twitter.com/maksvanleeuwen/status/1468025068026572810?s=20
+https://twitter.com/maksvanleeuwen/status/1468026442931974145
+https://twitter.com/maksvanleeuwen/status/1468025068026572810
